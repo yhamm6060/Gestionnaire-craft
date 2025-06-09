@@ -1,0 +1,1535 @@
+{
+  "timestamp": 1749496368.3934872,
+  "recipes": {
+    "Bandage": {
+      "Tissu déchiré": 1,
+      "Eau": 1
+    },
+    "Tissu déchiré": {
+      "Chiffon sale": 1,
+      "Eau": 1
+    },
+    "Lanières de cuir": {
+      "Lanières de cuir sales": 1,
+      "Eau": 1
+    },
+    "Lanières de jean": {
+      "Lanières de jean sales": 1,
+      "Eau": 1
+    },
+    "Bandage stérilisé": {
+      "Bouteille de désinfectant": 1,
+      "Casserole d'eau": 1,
+      "Bandage": 1
+    },
+    "Chiffon stérilisé": {
+      "Bouteille de désinfectant": 1,
+      "Casserole d'eau": 1,
+      "Tissu déchiré": 1
+    },
+    "Attelle": {
+      "Planche": 1,
+      "Tissu déchiré": 1
+    },
+    "Cotons imbibés d'alcool": {
+      "Bouteille de désinfectant": 1,
+      "Cotons": 1
+    },
+    "Tuyau en métal": {
+      "Chalumeau": 1
+    },
+    ".223 Cartouche": {
+      "Boîte de cartouches .223": 1
+    },
+    ".38 Cartouche Special": {
+      "Boîte de cartouches .38 Special": 1
+    },
+    ".44 Cartouche Magnum": {
+      "Boîte de cartouches .44 Magnum": 1
+    },
+    ".45 Cartouche Auto": {
+      "Boîte de cartouches .45 Auto": 1
+    },
+    "5.56mm Cartouche": {
+      "Boîte de cartouches 5.56mm": 1
+    },
+    "Bâton robuste": {
+      "Planche": 1
+    },
+    "Boîte de cartouches .223": {
+      ".223 Cartouche": 1
+    },
+    "Boîte de cartouches .38 Special": {
+      ".38 Cartouche Special": 1
+    },
+    "Boîte de cartouches .44 Magnum": {
+      ".44 Cartouche Magnum": 1
+    },
+    "Boîte de cartouches .45 Auto": {
+      ".45 Cartouche Auto": 1
+    },
+    "Boîte de cartouches 5.56mm": {
+      "5.56mm Cartouche": 1
+    },
+    "Boîte de cartouches 9 mm": {
+      "Munitions de 9 mm": 1
+    },
+    "Boîte de bocaux": {
+      "Pot vide": 1
+    },
+    "Boîte de clous": {
+      "Clous": 1
+    },
+    "Boîte de trombones": {
+      "Trombone": 1
+    },
+    "Boîte de vis": {
+      "Vis": 1
+    },
+    "Boîte de cartouches de fusil": {
+      "Cartouches calibre 12": 1
+    },
+    "Bougie": {
+      "Briquet": 1,
+      "Bougie": 1
+    },
+    "Cartouches calibre 12": {
+      "Boîte de cartouches de fusil": 1
+    },
+    "Vêtements propres": {
+      "Vêtements": 1,
+      "Eau": 1,
+      "Savon": 1
+    },
+    "Cocktail Molotov": {
+      "Tissu déchiré": 1,
+      "Bouteille de Bourbon": 1
+    },
+    "Corde de draps": {
+      "Drap": 1
+    },
+    "Bande de jean": {
+      "Vêtement (denim)": 1
+    },
+    "Pot vide": {
+      "Boîte de bocaux": 1
+    },
+    "Fusil à canon scié (JS-2000)": {
+      "Fusil à pompe": 1
+    },
+    "Poudre à canon": {
+      ".38 Cartouche Special": 1
+    },
+    "Lampe torche manuelle": {
+      "Lampe torche": 1,
+      "Pile": 1
+    },
+    "Lampe de poche": {
+      "Lampe de poche": 1,
+      "Pile": 1
+    },
+    "Bande de cuir": {
+      "Vêtement (cuir)": 1
+    },
+    "Munitions de 9 mm": {
+      "Boîte de cartouches 9 mm": 1
+    },
+    "Chapeau en journal": {
+      "Journal": 1
+    },
+    "Planche rainurée": {
+      "Planche": 1
+    },
+    "Pile": {
+      "Lampe de poche": 1
+    },
+    "Canard en plastique": {
+      "Canard en plastique": 1,
+      "Pile": 1
+    },
+    "Fusil à double canon scié": {
+      "Fusil à double canon": 1
+    },
+    "Vis": {
+      "Boîte de vis": 1
+    },
+    "Bouteille brisée": {
+      "Bouteille vide": 1
+    },
+    "Chapeau en aluminium": {
+      "Papier aluminium": 1
+    },
+    "Parapluie": {
+      "Parapluie fermé": 1
+    },
+    "Parapluie fermé": {
+      "Parapluie": 1
+    },
+    "Bouteille vide (Bourbon)": {
+      "Bouteille de Bourbon": 1
+    },
+    "Poêle à frire": {
+      "Sauté": 1
+    },
+    "Gril": {
+      "Sauté": 1
+    },
+    "Plat à rôtir": {
+      "Légumes rôtis": 1
+    },
+    "Sucette": {
+      "Paquet de bonbons": 1
+    },
+    "Œuf": {
+      "Carton d'œufs": 1
+    },
+    "Carton d'œufs": {
+      "Œuf": 1
+    },
+    "Munitions de fusil": {
+      "Boîte de cartouches de fusil": 1
+    },
+    "Clous": {
+      "Boîte de clous": 1
+    },
+    "Trombones": {
+      "Boîte de trombones": 1
+    },
+    "Bocal": {
+      "Boîte de bocaux": 1
+    },
+    "Planches de bois": {
+      "Planche": 1,
+      "Bûche": 1
+    },
+    "Canard en caoutchouc": {
+      "Canard en caoutchouc": 1,
+      "Pile": 1
+    },
+    "Torche à main": {
+      "Torche à main": 1,
+      "Pile": 1
+    },
+    "Chapeau de journal": {
+      "Journal": 1
+    },
+    "Fusil": {
+      "Fusil à pompe": 1,
+      "Scie de jardin": 1
+    },
+    "Fusil à canon scié": {
+      "Fusil à canon scié": 1,
+      "Scie de jardin": 1
+    },
+    "Feu de camp": {
+      "Brindilles": 1,
+      "Drap": 1,
+      "Tissu déchiré": 1,
+      "Tissu sale": 1,
+      "Livre": 1,
+      "Magazine": 1,
+      "Journal": 1,
+      "Bûche": 1
+    },
+    "Kit de tente": {
+      "Toile": 1,
+      "Piquet de tente": 1,
+      "Bâton robuste": 1
+    },
+    "Piquet": {
+      "Couteau en pierre": 1,
+      "Couteau de chasse": 1,
+      "Couteau de cuisine": 1,
+      "Couteau à viande": 1,
+      "Machette": 1,
+      "Branche": 1
+    },
+    "Couteau en pierre": {
+      "Tissu déchiré": 1,
+      "Tissu sale": 1,
+      "Fil": 1,
+      "Branche": 1,
+      "Pierre aiguisée": 1
+    },
+    "Hache en pierre": {
+      "Tissu déchiré": 1,
+      "Tissu sale": 1,
+      "Fil": 1,
+      "Branche": 1,
+      "Pierre aiguisée": 1
+    },
+    "Marteau en pierre": {
+      "Tissu déchiré": 1,
+      "Tissu sale": 1,
+      "Fil": 1,
+      "Branche": 1,
+      "Pierre": 1
+    },
+    "Lance": {
+      "Branche": 1,
+      "Planche": 1,
+      "Couteau de cuisine": 1,
+      "Machette": 1,
+      "Couteau à viande": 1,
+      "Couteau en pierre": 1
+    },
+    "Lance avec couteau à pain": {
+      "Lance": 1,
+      "Couteau à pain": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec couteau à beurre": {
+      "Lance": 1,
+      "Couteau à beurre": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec fourchette": {
+      "Lance": 1,
+      "Fourchette": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec ouvre-lettres": {
+      "Lance": 1,
+      "Ouvre-lettres": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec scalpel": {
+      "Lance": 1,
+      "Scalpel": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec cuillère": {
+      "Lance": 1,
+      "Cuillère": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec ciseaux": {
+      "Lance": 1,
+      "Ciseaux": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec fourche à main": {
+      "Lance": 1,
+      "Fourche à main": 1,
+      "Ruban adhésif": 1
+    },
+    "Lance avec tournevis": {
+      "Lance": 1,
+      "Tournevis": 1,
+      "Ruban adhésif": 1
+    },
+    "Planche": {
+      "Bûche": 1
+    },
+    "Mortier et pilon": {
+      "Planche": 1
+    },
+    "Seau de plâtre": {
+      "Seau": 1,
+      "Eau": 1,
+      "Plâtre": 1
+    },
+    "Tiroir": {
+      "Planche": 1,
+      "Poignée de porte": 1,
+      "Clous": 1
+    },
+    "Matelas": {
+      "Bobine de fil": 1,
+      "Drap": 1,
+      "Coussin": 1
+    },
+    "Pile de bûches": {
+      "Corde": 1,
+      "Bûche": 1
+    },
+    "Batte de baseball cloutée": {
+      "Batte de baseball": 1,
+      "Clous": 1
+    },
+    "Planche cloutée": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Barricade en bois": {
+      "Porte": 1,
+      "Fenêtre": 1,
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Pieu en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Barrière en bois": {
+      "Fil barbelé": 1
+    },
+    "Clôture en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Mur en sacs de sable": {
+      "Sac de sable": 1
+    },
+    "Mur en sacs de gravier": {
+      "Sac de gravier": 1
+    },
+    "Caisse en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Élément de bar": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Angle de bar": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Petite table": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Grande table": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Table avec tiroir": {
+      "Planche": 1,
+      "Clous": 1,
+      "Tiroir": 1
+    },
+    "Chaise en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Collecteur d'eau de pluie": {
+      "Planche": 1,
+      "Clous": 1,
+      "Sac poubelle": 1
+    },
+    "Composteur": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Bibliothèque": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Petite bibliothèque": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Étagères": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Double étagères": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Lit": {
+      "Planche": 1,
+      "Clous": 1,
+      "Matelas": 1
+    },
+    "Cairn": {
+      "Pierre": 1
+    },
+    "Lampe sur pilier": {
+      "Planche": 1,
+      "Clous": 1,
+      "Corde": 1,
+      "Lampe de poche": 1
+    },
+    "Croix en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Piquet en bois": {
+      "Planche": 1,
+      "Corde de drap": 1
+    },
+    "Panneau en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Cadre en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Mur en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Fenêtre en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Châssis de porte en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Pilier en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Mur en rondins": {
+      "Tissu déchiré": 1,
+      "Corde": 1,
+      "Rope": 1,
+      "Bûche": 1
+    },
+    "Porte en bois": {
+      "Planche": 1,
+      "Clous": 1,
+      "Charnière": 1,
+      "Poignée de porte": 1
+    },
+    "Porte double en bois": {
+      "Planche": 1,
+      "Clous": 1,
+      "Charnière": 1,
+      "Poignée de porte": 1
+    },
+    "Escaliers": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Plancher en bois": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Composant électronique": {
+      "Téléphone sans fil": 1,
+      "Montre numérique": 1,
+      "Écouteurs": 1,
+      "Lampe de poche": 1,
+      "Torche à main": 1,
+      "Casque": 1,
+      "Jeu vidéo": 1
+    },
+    "Capteur de mouvement": {
+      "Alarme maison": 1
+    },
+    "Amplificateur": {
+      "Haut-parleur": 1
+    },
+    "Récepteur": {
+      "Télécommande TV": 1
+    },
+    "Déclencheur": {
+      "Récepteur radio": 1,
+      "Récepteur": 1,
+      "Composant électronique": 1,
+      "Colle": 1,
+      "Magazine électronique Vol. 4": 1
+    },
+    "Minuterie": {
+      "Réveil": 1,
+      "Minuterie": 1,
+      "Composant électronique": 1,
+      "Colle": 1,
+      "Magazine électronique Vol. 2": 1
+    },
+    "Télécommande V1": {
+      "Télécommande TV": 1,
+      "Composant électronique": 1,
+      "Colle": 1,
+      "Magazine électronique Vol. 1": 1
+    },
+    "Télécommande V2": {
+      "Télécommande TV": 1,
+      "Composant électronique": 1,
+      "Colle": 1,
+      "Magazine électronique Vol. 1": 1
+    },
+    "Télécommande V3": {
+      "Télécommande TV": 1,
+      "Composant électronique": 1,
+      "Colle": 1,
+      "Magazine électronique Vol. 1": 1
+    },
+    "Radio de fortune": {
+      "Composant électronique": 1,
+      "Amplificateur": 1,
+      "Ampoule": 1,
+      "Récepteur radio": 1,
+      "Fil électrique": 1,
+      "Aluminium": 1,
+      "Magazine électronique Vol. 1": 1
+    },
+    "Talkie-walkie de fortune": {
+      "Composant électronique": 1,
+      "Amplificateur": 1,
+      "Ampoule": 1,
+      "Ampoule verte": 1,
+      "Transmetteur radio": 1,
+      "Fil électrique": 1,
+      "Aluminium": 1,
+      "Magazine électronique Vol. 2": 1
+    },
+    "Bombe aérosol": {
+      "Aérosol": 1,
+      "Cocarde": 1,
+      "Aluminium": 1
+    },
+    "Bombe incendiaire": {
+      "Bouteille vide": 1,
+      "Essence": 1,
+      "Tissu déchiré": 1
+    },
+    "Bombe aérosol avec minuterie": {
+      "Bombe aérosol": 1,
+      "Minuterie": 1,
+      "Composant électronique": 1,
+      "Ruban adhésif": 1,
+      "Magazine électronique Vol. 2": 1
+    },
+    "Bombe aérosol avec capteur (V1)": {
+      "Bombe aérosol": 1,
+      "Capteur de mouvement": 1,
+      "Composant électronique": 1,
+      "Ruban adhésif": 1,
+      "Magazine électronique Vol. 3": 1
+    },
+    "Bombe incendiaire avec minuterie": {
+      "Bombe incendiaire": 1,
+      "Minuterie": 1,
+      "Composant électronique": 1,
+      "Ruban adhésif": 1,
+      "Magazine électronique Vol. 2": 1
+    },
+    "Bombe incendiaire avec capteur (V1)": {
+      "Bombe incendiaire": 1,
+      "Capteur de mouvement": 1,
+      "Composant électronique": 1,
+      "Ruban adhésif": 1,
+      "Magazine électronique Vol. 3": 1
+    },
+    "Bâton": {
+      "Bois": 1
+    },
+    "Kit pour feu de camp": {
+      "Bois": 1,
+      "Brindilles": 1,
+      "Feuille": 1
+    },
+    "Porte": {
+      "Marteau": 1,
+      "Planche": 1,
+      "Clou": 1,
+      "Charnière de porte": 1,
+      "Poignée de porte": 1
+    },
+    "Paquet de graines de brocoli": {
+      "Graines de brocoli": 1
+    },
+    "Graines de brocoli": {
+      "Paquet de graines de brocoli": 1
+    },
+    "Paquet de graines de chou": {
+      "Graines de chou": 1
+    },
+    "Graines de chou": {
+      "Paquet de graines de chou": 1
+    },
+    "Paquet de graines de carotte": {
+      "Graines de carotte": 1
+    },
+    "Graines de carotte": {
+      "Paquet de graines de carotte": 1
+    },
+    "Paquet de graines de pomme de terre": {
+      "Graines de pomme de terre": 1
+    },
+    "Graines de pomme de terre": {
+      "Paquet de graines de pomme de terre": 1
+    },
+    "Paquet de graines de radis": {
+      "Graines de radis": 1
+    },
+    "Graines de radis": {
+      "Paquet de graines de radis": 1
+    },
+    "Paquet de graines de fraise": {
+      "Graines de fraise": 1
+    },
+    "Graines de fraise": {
+      "Paquet de graines de fraise": 1
+    },
+    "Paquet de graines de tomate": {
+      "Graines de tomate": 1
+    },
+    "Graines de tomate": {
+      "Paquet de graines de tomate": 1
+    },
+    "Canne à pêche": {
+      "Bâton robuste": 1
+    },
+    "Filet de pêche": {
+      "Ficelle": 1,
+      "Fil de fer": 1
+    },
+    "Fil de fer": {
+      "Filet de pêche cassé": 1
+    },
+    "Piège-cage": {
+      "Fil de fer": 1
+    },
+    "Piège à lacet": {
+      "Planche": 1,
+      "Corde": 1
+    },
+    "Piège à bâtons": {
+      "Bâton robuste": 1,
+      "Corde": 1
+    },
+    "Piège boîte": {
+      "Planche": 1,
+      "Clous": 1
+    },
+    "Piège caisse": {
+      "Planche": 1,
+      "Clous": 1
+    }
+  },
+  "table_data": {
+    "Bandage": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Tissu déchiré": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Lanières de cuir": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Lanières de jean": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Bandage stérilisé": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Chiffon stérilisé": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Attelle": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Cotons imbibés d'alcool": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Premiers Secours"
+    },
+    "Tuyau en métal": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Travail du Métal"
+    },
+    ".223 Cartouche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    ".38 Cartouche Special": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    ".44 Cartouche Magnum": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    ".45 Cartouche Auto": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "5.56mm Cartouche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bâton robuste": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches .223": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches .38 Special": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches .44 Magnum": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches .45 Auto": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches 5.56mm": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches 9 mm": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de bocaux": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de clous": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de trombones": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de vis": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Boîte de cartouches de fusil": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bougie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Cartouches calibre 12": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Vêtements propres": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Cocktail Molotov": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Corde de draps": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bande de jean": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Pot vide": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Fusil à canon scié (JS-2000)": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Poudre à canon": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Lampe torche manuelle": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Lampe de poche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bande de cuir": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Munitions de 9 mm": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Chapeau en journal": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Planche rainurée": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Pile": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Canard en plastique": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Fusil à double canon scié": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Vis": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bouteille brisée": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Chapeau en aluminium": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Parapluie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Parapluie fermé": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Artisanat"
+    },
+    "Bouteille vide (Bourbon)": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Poêle à frire": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Gril": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Plat à rôtir": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Sucette": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Œuf": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Carton d'œufs": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Cuisine"
+    },
+    "Munitions de fusil": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Clous": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Trombones": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Bocal": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Planches de bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Canard en caoutchouc": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Torche à main": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Chapeau de journal": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Fusil": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Fusil à canon scié": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Feu de camp": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Kit de tente": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Piquet": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Couteau en pierre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Hache en pierre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Marteau en pierre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec couteau à pain": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec couteau à beurre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec fourchette": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec ouvre-lettres": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec scalpel": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec cuillère": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec ciseaux": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec fourche à main": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Lance avec tournevis": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Planche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Mortier et pilon": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Seau de plâtre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Tiroir": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Matelas": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Pile de bûches": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Batte de baseball cloutée": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Planche cloutée": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Barricade en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Pieu en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Barrière en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Clôture en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Mur en sacs de sable": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Mur en sacs de gravier": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Caisse en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Élément de bar": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Angle de bar": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Petite table": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Grande table": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Table avec tiroir": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Chaise en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Collecteur d'eau de pluie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Composteur": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Bibliothèque": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Petite bibliothèque": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Étagères": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Double étagères": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Lit": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Cairn": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Lampe sur pilier": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Croix en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Piquet en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Panneau en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Cadre en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Mur en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Fenêtre en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Châssis de porte en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Pilier en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Mur en rondins": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Porte en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Porte double en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Escaliers": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Plancher en bois": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Composant électronique": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Capteur de mouvement": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Amplificateur": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Récepteur": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Déclencheur": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Minuterie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Télécommande V1": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Télécommande V2": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Télécommande V3": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Radio de fortune": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Talkie-walkie de fortune": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Bombe aérosol": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Bombe incendiaire": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Général"
+    },
+    "Bombe aérosol avec minuterie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Bombe aérosol avec capteur (V1)": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Bombe incendiaire avec minuterie": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Bombe incendiaire avec capteur (V1)": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Électrique"
+    },
+    "Bâton": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Kit pour feu de camp": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Survie"
+    },
+    "Porte": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Menuiserie"
+    },
+    "Paquet de graines de brocoli": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de brocoli": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de chou": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de chou": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de carotte": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de carotte": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de pomme de terre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de pomme de terre": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de radis": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de radis": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de fraise": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de fraise": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Paquet de graines de tomate": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Graines de tomate": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Agriculture"
+    },
+    "Canne à pêche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Pêche"
+    },
+    "Filet de pêche": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Pêche"
+    },
+    "Fil de fer": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Pêche"
+    },
+    "Piège-cage": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Trappeur"
+    },
+    "Piège à lacet": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Trappeur"
+    },
+    "Piège à bâtons": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Trappeur"
+    },
+    "Piège boîte": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Trappeur"
+    },
+    "Piège caisse": {
+      "quantity": 0,
+      "favorite": false,
+      "category": "Trappeur"
+    }
+  },
+  "created_at": "2025-06-09T21:25:35.840291"
+}

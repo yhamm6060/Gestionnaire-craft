@@ -146,6 +146,425 @@ app.fn_init_db()
 
 # Ajout de crafts et de leurs ingrédients
 
+app.add_craft("Bandage",
+              [("Tissu déchiré", 1), ("Eau", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Tissu déchiré",
+              [("Chiffon sale", 1), ("Eau", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Lanières de cuir",
+              [("Lanières de cuir sales", 1), ("Eau", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Lanières de jean",
+              [("Lanières de jean sales", 1), ("Eau", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Bandage stérilisé",
+              [("Bouteille de désinfectant", 3), ("Casserole d'eau", 1), ("Bandage", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Chiffon stérilisé",
+              [("Bouteille de désinfectant", 3), ("Casserole d'eau", 1), ("Tissu déchiré", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Attelle",
+              [("Planche", 1), ("Tissu déchiré", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Attelle",
+              [("Branche d'arbre", 1), ("Tissu déchiré", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Attelle",
+              [("Bâton robuste", 1), ("Tissu déchiré", 1)],
+              category="Premiers Secours")
+
+app.add_craft("Cotons imbibés d'alcool",
+              [("Bouteille de désinfectant", 1), ("Cotons", 1)],
+              category="Premiers Secours")
+
+
+# Catégorie Travail du Métal
+app.add_craft("Tuyau en métal",
+              [("Chalumeau", 2)],
+              category="Travail du Métal")
+
+
+#categorie agriculture 
+
+app.add_craft("Paquet de graines de brocoli",
+              [("Graines de brocoli", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de brocoli",
+              [("Paquet de graines de brocoli", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de chou",
+              [("Graines de chou", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de chou",
+              [("Paquet de graines de chou", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de carotte",
+              [("Graines de carotte", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de carotte",
+              [("Paquet de graines de carotte", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de pomme de terre",
+              [("Graines de pomme de terre", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de pomme de terre",
+              [("Paquet de graines de pomme de terre", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de radis",
+              [("Graines de radis", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de radis",
+              [("Paquet de graines de radis", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de fraise",
+              [("Graines de fraise", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de fraise",
+              [("Paquet de graines de fraise", 1)],
+              category="Agriculture")
+
+app.add_craft("Paquet de graines de tomate",
+              [("Graines de tomate", 50)],
+              category="Agriculture")
+
+app.add_craft("Graines de tomate",
+              [("Paquet de graines de tomate", 1)],
+              category="Agriculture")
+# Catégorie Trappeur
+app.add_craft("Piège-cage",
+              [("Fil de fer", 5)],
+              category="Trappeur")
+
+app.add_craft("Piège à lacet",
+              [("Planche", 1), ("Corde", 2)],
+              category="Trappeur")
+
+app.add_craft("Piège à bâtons",
+              [("Bâton robuste", 4), ("Corde", 2)],
+              category="Trappeur")
+
+app.add_craft("Piège boîte",
+              [("Planche", 4), ("Clous", 7)],
+              category="Trappeur")
+
+app.add_craft("Piège caisse",
+              [("Planche", 3), ("Clous", 5)],
+              category="Trappeur")
+
+
+# Catégorie peche
+app.add_craft("Canne à pêche",
+              [("Bâton robuste", 1)],
+              category="Pêche")
+
+app.add_craft("Canne à pêche",
+              [("Bâton robuste", 1), ("Fil de pêche", 1), ("Clou", 1)],
+              category="Pêche")
+
+app.add_craft("Filet de pêche",
+              [("Ficelle", 10), ("Fil de fer", 5)],
+              category="Pêche")
+
+app.add_craft("Fil de fer",
+              [("Filet de pêche cassé", 1)],
+              category="Pêche")
+
+
+# Catégorie artisanat
+
+
+app.add_craft(".223 Cartouche",
+              [("Boîte de cartouches .223", 1)],
+              category="Artisanat")
+
+app.add_craft(".38 Cartouche Special",
+              [("Boîte de cartouches .38 Special", 1)],
+              category="Artisanat")
+
+app.add_craft(".44 Cartouche Magnum",
+              [("Boîte de cartouches .44 Magnum", 1)],
+              category="Artisanat")
+
+app.add_craft(".45 Cartouche Auto",
+              [("Boîte de cartouches .45 Auto", 1)],
+              category="Artisanat")
+
+app.add_craft("5.56mm Cartouche",
+              [("Boîte de cartouches 5.56mm", 1)],
+              category="Artisanat")
+
+# Outil requis : Scie ou Scie à métaux
+app.add_craft("Bâton robuste",
+              [("Planche", 1)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches .223",
+              [(".223 Cartouche", 40)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches .38 Special",
+              [(".38 Cartouche Special", 30)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches .44 Magnum",
+              [(".44 Cartouche Magnum", 12)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches .45 Auto",
+              [(".45 Cartouche Auto", 30)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches 5.56mm",
+              [("5.56mm Cartouche", 60)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches 9 mm",
+              [("Munitions de 9 mm", 30)],
+              category="Artisanat")
+
+app.add_craft("Boîte de bocaux",
+              [("Pot vide", 6)],
+              category="Artisanat")
+
+app.add_craft("Boîte de clous",
+              [("Clous", 100)],
+              category="Artisanat")
+
+app.add_craft("Boîte de trombones",
+              [("Trombone", 40)],
+              category="Artisanat")
+
+app.add_craft("Boîte de vis",
+              [("Vis", 100)],
+              category="Artisanat")
+
+app.add_craft("Boîte de cartouches de fusil",
+              [("Cartouches calibre 12", 24)],
+              category="Artisanat")
+
+# Deux recettes possibles
+app.add_craft("Bougie",
+              [("Briquet", 1), ("Bougie", 1)],
+              category="Artisanat")
+
+app.add_craft("Bougie",
+              [("Allumettes", 1), ("Bougie", 1)],
+              category="Artisanat")
+
+app.add_craft("Cartouches calibre 12",
+              [("Boîte de cartouches de fusil", 1)],
+              category="Artisanat")
+
+app.add_craft("Vêtements propres",
+              [("Vêtements", 1), ("Eau", 3), ("Savon", 1)],
+              category="Artisanat")
+
+app.add_craft("Vêtements propres",
+              [("Vêtements", 1), ("Eau", 3), ("Liquide nettoyant", 1)],
+              category="Artisanat")
+
+# Cocktail Molotov - option 1
+app.add_craft("Cocktail Molotov",
+              [("Tissu déchiré", 1), ("Bouteille de Bourbon", 1)],
+              category="Artisanat")
+
+app.add_craft("Cocktail Molotov",
+              [("Chiffon sale", 1), ("Bouteille de Bourbon", 1)],
+              category="Artisanat")
+
+# Cocktail Molotov - option 2
+app.add_craft("Cocktail Molotov",
+              [("Bouteille vide", 3), ("Tissu déchiré", 1), ("Bidon d’essence", 1)],
+              category="Artisanat")
+
+app.add_craft("Cocktail Molotov",
+              [("Bouteille vide", 3), ("Chiffon sale", 1), ("Bidon d’essence", 1)],
+              category="Artisanat")
+
+# Ingrédient alternatif Drap ou Vêtement (coton)
+app.add_craft("Corde de draps",
+              [("Drap", 1)],
+              category="Artisanat")
+
+app.add_craft("Corde de draps",
+              [("Vêtement (coton)", 1)],
+              category="Artisanat")
+
+# Outil requis : Ciseaux
+app.add_craft("Bande de jean",
+              [("Vêtement (denim)", 1)],
+              category="Artisanat")
+
+app.add_craft("Pot vide",
+              [("Boîte de bocaux", 1)],
+              category="Artisanat")
+
+# Outil requis : Scie ou Scie à métaux
+app.add_craft("Fusil à canon scié (JS-2000)",
+              [("Fusil à pompe", 1)],
+              category="Artisanat")
+
+# Multi-ingrédients alternatifs
+app.add_craft("Poudre à canon",
+              [(".38 Cartouche Special", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [(".44 Cartouche Magnum", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [(".45 Cartouche Auto", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [("Munitions de 9 mm", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [("5.56mm Cartouche", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [(".308 Cartouche", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [(".223 Cartouche", 1)],
+              category="Artisanat")
+app.add_craft("Poudre à canon",
+              [("Cartouches calibre 12", 1)],
+              category="Artisanat")
+
+app.add_craft("Lampe torche manuelle",
+              [("Lampe torche", 1), ("Pile", 1)],
+              category="Artisanat")
+
+app.add_craft("Lampe de poche",
+              [("Lampe de poche", 1), ("Pile", 1)],
+              category="Artisanat")
+
+# Outil requis : Ciseaux
+app.add_craft("Bande de cuir",
+              [("Vêtement (cuir)", 1)],
+              category="Artisanat")
+
+app.add_craft("Munitions de 9 mm",
+              [("Boîte de cartouches 9 mm", 1)],
+              category="Artisanat")
+
+app.add_craft("Chapeau en journal",
+              [("Journal", 1)],
+              category="Artisanat")
+
+# Outil requis : Tournevis ou Couteau
+app.add_craft("Planche rainurée",
+              [("Planche", 1)],
+              category="Artisanat")
+
+app.add_craft("Planche rainurée",
+              [("Bûche", 1)],
+              category="Artisanat")
+
+# Multi-ingrédients
+app.add_craft("Pile",
+              [("Lampe de poche", 1)],
+              category="Artisanat")
+app.add_craft("Pile",
+              [("Lampe torche", 1)],
+              category="Artisanat")
+app.add_craft("Pile",
+              [("Canard en plastique", 1)],
+              category="Artisanat")
+
+app.add_craft("Canard en plastique",
+              [("Canard en plastique", 1), ("Pile", 1)],
+              category="Artisanat")
+
+# Outil requis : Scie ou Scie à métaux
+app.add_craft("Fusil à double canon scié",
+              [("Fusil à double canon", 1)],
+              category="Artisanat")
+
+app.add_craft("Vis",
+              [("Boîte de vis", 1)],
+              category="Artisanat")
+
+app.add_craft("Bouteille brisée",
+              [("Bouteille vide", 4)],
+              category="Artisanat")
+
+app.add_craft("Chapeau en aluminium",
+              [("Papier aluminium", 1)],
+              category="Artisanat")
+
+# XP : 0.25 en Couture
+app.add_craft("Tissu déchiré",
+              [("Drap", 1)],
+              category="Artisanat")
+
+app.add_craft("Tissu déchiré",
+              [("Vêtement (coton)", 1)],
+              category="Artisanat")
+
+app.add_craft("Parapluie",
+              [("Parapluie fermé", 1)],
+              category="Artisanat")
+
+app.add_craft("Parapluie fermé",
+              [("Parapluie", 1)],
+              category="Artisanat")
+
+# Catégorie Cuisine
+
+app.add_craft("Bouteille vide (Bourbon)",
+              [("Bouteille de Bourbon", 1)],
+              category="Cuisine")
+
+app.add_craft("Poêle à frire",
+              [("Sauté", 1)],
+              category="Cuisine")
+
+app.add_craft("Gril",
+              [("Sauté", 1)],
+              category="Cuisine")
+
+app.add_craft("Plat à rôtir",
+              [("Légumes rôtis", 1)],
+              category="Cuisine")
+
+app.add_craft("Sucette",
+              [("Paquet de bonbons", 1)],
+              category="Cuisine")
+
+app.add_craft("Œuf",
+              [("Carton d'œufs", 1)],
+              category="Cuisine")
+
+app.add_craft("Carton d'œufs",
+              [("Œuf", 12)],
+              category="Cuisine")
+
+
+
+
+
+
+
 # Catégorie Général
 app.add_craft("Poudre à canon",
               [("Boîte de munitions 40 cal", 1), ("Munitions Rifle .308 loose", 1), ("Cartouches de fusil", 1)],
